@@ -62,10 +62,9 @@
 <br/>
 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=
-isaias-nhantumbo&show_icons=true&hide_border=true&theme=radical&title_color=8E2DE2&text_color=fff" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaias-nhantumbo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Isaias Nhantumbo Github Stats">
 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-nhantumbo&layout=compact&show_icons=true&hide_border=true&theme=radical&title_color=8E2DE2&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-nhantumbo&layout=compact&show_icons=true&hide_border=true&theme=radical&title_color=8E2DE2&text_color=fff" />
 
 </p>
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
