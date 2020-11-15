@@ -62,19 +62,19 @@
 <br/>
 
 <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaias-nhantumbo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Isaias Nhantumbo Github Stats">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaiasnhantumbo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Isaias Nhantumbo Github Stats">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-nhantumbo&layout=compact&show_icons=true&hide_border=true&theme=radical&title_color=8E2DE2&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasnhantumbo&layout=compact&show_icons=true&hide_border=true&theme=radical&title_color=8E2DE2&text_color=fff" />
 
 </p>
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://isaias-nhantumbo.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-isaias_nhantumbo-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://isaiasnhantumbo.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-isaias_nhantumbo-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.youtube.com/channel/UCOyeYkH0MwJ6RrXTcEFFdAQ?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/Channel-Isaias_Inside-blue?style=flat-square&logo=youtube"></a>
 <a href="https://www.linkedin.com/in/isaias-nhantumbo-junior-733bb619b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Isaias%20Nhantumbo%20Junior-green?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/isaias_here/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-isaias__here_-blue??style=for-the-badge&logo=instagram"></a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=isaias-nhantumbo.isaias-nhantumbo)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=isaiasnhantumbo.isaiasnhantumbo)
 
 </p>
