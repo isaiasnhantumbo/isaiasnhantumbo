@@ -11,7 +11,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at
   <a target_blank href="https://www.itc.ac.mz">Institute of Transport and Communications (ITC)</a>
-- 🌱 &nbsp; Learning more about Artificial Intelligence, Cyber Security, UI Design and Web/Mobile software 
+- 🌱 &nbsp; Learning more about Cyber Security, UI Design and Web/Mobile software 
 - ✍️ &nbsp; Pursuing Graphic Design, Motion Design and Blog Writing as hobbies/side hustles.
 
 #### <h3> 🛠 &nbsp;: My Programming languages and tools</h3>
