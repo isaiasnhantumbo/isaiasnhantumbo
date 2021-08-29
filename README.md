@@ -2,9 +2,11 @@
 
 <h2 align=center>Welcome to my Github page! </h2>
 
-### Hi, I'm Isaias Nhantumbo, a student passionate about development and entrepreneurship in Mozambique! I specialize in Frontend, I like to develop modern and interactive interfaces with ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), without forgetting the important factor that is accessibility and usability. Building applications since 2020, see my projects😀
+## Hi, I'm Isaias Nhantumbo, a student passionate about development and entrepreneurship in Mozambique! 
+I'm skilled in Frontend, I like to develop modern and interactive interfaces with React, without forgetting the important factor that is accessibility and usability. 
 
 
+Building applications since 2020, see my projects😀
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -15,6 +17,8 @@
 - ✍️ &nbsp; Pursuing Graphic Design, Motion Design and Blog Writing as hobbies/side hustles.
 
 <br/>
+
+
 
 <p>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaiasnhantumbo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Isaias Nhantumbo Github Stats">
