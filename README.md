@@ -4,7 +4,7 @@
 
 ## Hi, I'm Isaias Nhantumbo, a student passionate about development and entrepreneurship in Mozambique! 
 I'm skilled in Frontend, I like to develop modern and interactive interfaces with React, without forgetting the important factor that is accessibility and usability. 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 Building applications since 2020, see my projects😀
 
