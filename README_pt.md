@@ -42,7 +42,7 @@
 <br/>
 
 
-## 🤙 &nbsp;Quer saber mais sobre mim, é só mandar uma mensagem, é grátis 😃
+## 🤙 &nbsp;Quer saber mais sobre mim, é só mandar uma mensagem é grátis 😃
 ---
 
 <h2 align="center">

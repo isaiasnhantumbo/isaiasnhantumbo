@@ -32,7 +32,7 @@
 
 
 
-## 👨🏻‍💻 &nbsp;Sobre Mim
+## 👨🏻‍💻 &nbsp; About me
   ---
 
 - 🚀 &nbsp; Exploring new technologies and developing software solutions.
@@ -46,7 +46,7 @@
 <br/>
 
 
-## 🤙 &nbsp;Vamos Conversar
+## 🤙 &nbsp;Want to know more about me, just send a message, it's free
 ---
 
 <h2 align="center">
