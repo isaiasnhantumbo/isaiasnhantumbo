@@ -4,11 +4,9 @@
 
 </h1>
 
-| Change Language                                                                                                                | Mudar Lingua                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| [![Portuguese](https://img.shields.io/badge/Portuguese-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [![Português](https://img.shields.io/badge/português-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [Português](README_pt.md) |
-| [![English](https://img.shields.io/badge/English-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md)          | [![Inglês](https://img.shields.io/badge/Inglês-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md)          |
-
+| Change Language                                                                                                       | Mudar Lingua                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [![English](https://img.shields.io/badge/English-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md) | [![Português](https://img.shields.io/badge/português-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [Português](README_pt.md) |
 
 <div style="display:flex; align-items:center;">
 <div>
@@ -19,6 +17,7 @@
 
 
 - Criando aplicativos desde 2020, veja meus projetos
+- Buscando a primeira oportunidade de emprego como Frontend júnior
   
 </div>
   

@@ -4,10 +4,10 @@
 
 </h1>
 
-| Change Language                                                                                                                | Mudar Lingua                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| [![Portuguese](https://img.shields.io/badge/Portuguese-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [![Português](https://img.shields.io/badge/português-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [Português](README_pt.md) |
-| [![English](https://img.shields.io/badge/English-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md)          | [![Inglês](https://img.shields.io/badge/Inglês-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md)          |
+| Change Language                                                                                                       | Mudar Lingua                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [![English](https://img.shields.io/badge/English-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md) | [![Português](https://img.shields.io/badge/português-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [Português](README_pt.md) |
+
 
 
 
@@ -23,6 +23,7 @@
 
 
 - Creating apps since 2020, see my projects
+- Seeking First Job Opportunity As Frontend Junior
   
 </div>
   
