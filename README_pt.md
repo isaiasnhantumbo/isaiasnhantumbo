@@ -4,11 +4,10 @@
 
 </h1>
 
-| Change Language            | Mudar Lingua              |
-| -------------------------- | ------------------------- |
-| [Portuguese](README_pt.md) | [Português](README_pt.md) |
-| [English](README.md)       | [Inglês](README.md)       |
-|                            |
+| Change Language                                                                                                                | Mudar Lingua                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| [![Portuguese](https://img.shields.io/badge/Portuguese-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [![Português](https://img.shields.io/badge/português-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [Português](README_pt.md) |
+| [![English](https://img.shields.io/badge/English-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md)          | [![Inglês](https://img.shields.io/badge/Inglês-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md)          |
 
 
 <div style="display:flex; align-items:center;">
@@ -43,16 +42,18 @@
 <br/>
 
 
-## 🤙 &nbsp;Vamos Conversar
+## 🤙 &nbsp;Quer saber mais sobre mim, é só mandar uma mensagem, é grátis 😃
 ---
 
 <h2 align="center">
 <br>
 
-[![github](https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&color=0D1116&logoColor=4C8EDA)](https://www.linkedin.com/in/isaias-nhantumbo-junior-733bb619b)
-[![github](https://img.shields.io/badge/-Gmail-green?style=for-the-badge&logo=gmail&color=0D1116&logoColor=4C8EDA)](mailto:isaiasnhantumbo54@gmail.com)
-[![github](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&color=0D1116&logoColor=4C8EDA)](https://www.instagram.com/isaias_nhantumbo/)
-[![github](https://img.shields.io/badge/Youtube-blue?style=for-the-badge&logo=youtube&color=0D1116&logoColor=4C8EDA)](https://www.youtube.com/channel/UCOyeYkH0MwJ6RrXTcEFFdAQ?view_as=subscriber)
+[![linkedin](https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&color=050F2C&logoColor=4C8EDA)](https://www.linkedin.com/in/isaias-nhantumbo-junior-733bb619b)
+[![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=ckeditor4&color=050F2C&logoColor=4C8EDA)](https://drive.google.com/file/d/1OytXgsEgJD1UaPd9FnSHYuf5vEg2CTgX/view?usp=sharing)
+[![gmail](https://img.shields.io/badge/-Gmail-green?style=for-the-badge&logo=gmail&color=050F2C&logoColor=4C8EDA)](mailto:isaiasnhantumbo54@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&color=050F2C&logoColor=4C8EDA)](https://www.instagram.com/isaias_nhantumbo/)
+[![youtube](https://img.shields.io/badge/Youtube-blue?style=for-the-badge&logo=youtube&color=050F2C&logoColor=4C8EDA)](https://www.youtube.com/channel/UCOyeYkH0MwJ6RrXTcEFFdAQ?view_as=subscriber)
+
 
 </h2>
 
