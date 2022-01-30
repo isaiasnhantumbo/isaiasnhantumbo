@@ -17,12 +17,12 @@
 
 <div>
 
-- I'm skilled in Frontend
+- I'm frontend skilled.
   
 - I like to develop modern and interactive interfaces with React, without forgetting the important factor that is accessibility and usability
 
 
-- Creating apps since 2020, see my projects
+- Creating apps since 2020, please find my apps
 - Seeking First Job Opportunity As Frontend Junior
   
 </div>
@@ -36,13 +36,13 @@
 ## 👨🏻‍💻 &nbsp; About me
   ---
 
-- 🚀 &nbsp; Exploring new technologies and developing software solutions.
-- 👨‍💻 &nbsp; Currently learning Animations on React, React Native, Nodejs, Docker and Design Patterns.
-- 🎓 &nbsp; Studying Web Application Programming CV5 at
+- 🚀 &nbsp; Exploring technologies and developing software solutions.
+- 👨‍💻 &nbsp; I'm currently studying animations in React, React Native, Nodejs, Docker and Design Patterns. 
+- 🎓 &nbsp; I'm studying Web Application Programming CV5 at
   <a target_blank href="https://www.itc.ac.mz">Institute of Transport and Communications (ITC).</a>
-- 🎨 &nbsp; Enthusiast in UI Design and Graphic Designer.
-- ✍️ &nbsp; Creating Motion Designer and blog articles as hobbies...
-- 🎮 &nbsp; I like to play some strategy and racing games
+- 🎨 &nbsp; UI designer and graphics enthusiast. 
+- ✍️ &nbsp; Creating motion designer and blog articles as hobbies.
+- 🎮 &nbsp; I like to play some strategy and racing games.
 
 <br/>
 
