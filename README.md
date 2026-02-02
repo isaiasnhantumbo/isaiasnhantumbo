@@ -53,8 +53,7 @@
 <h2 align="center">
 <br>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&color=050F2C&logoColor=4C8EDA)](https://www.linkedin.com/in/isaias-nhantumbo-junior-733bb619b)
-[![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=ckeditor4&color=050F2C&logoColor=4C8EDA)](https://drive.google.com/file/d/1OytXgsEgJD1UaPd9FnSHYuf5vEg2CTgX/view?usp=sharing)
+[![linkedin](https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&color=050F2C&logoColor=4C8EDA)](https://www.linkedin.com/in/isaiasnhantumbo)
 [![gmail](https://img.shields.io/badge/-Gmail-green?style=for-the-badge&logo=gmail&color=050F2C&logoColor=4C8EDA)](mailto:isaiasnhantumbo54@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&color=050F2C&logoColor=4C8EDA)](https://www.instagram.com/isaias_nhantumbo/)
 [![youtube](https://img.shields.io/badge/Youtube-blue?style=for-the-badge&logo=youtube&color=050F2C&logoColor=4C8EDA)](https://www.youtube.com/channel/UCOyeYkH0MwJ6RrXTcEFFdAQ?view_as=subscriber)
